@@ -1,0 +1,68 @@
+Controle de Projetos
+Ciclo de Vida do Projeto
+   Todo o projeto tem um Ciclo de Vida característico, definido pela sua natureza, seu escopo e suas datas de início e término. O projeto é subdividido em determinadas fases de desenvolvimento. O entendimento destas fases permite um melhor controle do total de recursos gastos para atingir as metas estabelecidas. A natureza deste ciclo varia significativamente, mas alguns conjuntos de atividades podem ser encontrados em todos os tipos de projetos. Para descrevermos o ciclo de vida dos projetos devemos analisá-lo como um conjunto de fases que por sua vez são divididas em estágios, conforme a natureza de projeto (construção, desenvolvimento de produto, etc...). Os estágios são compostos por atividades ou tarefas específicas de cada projeto. 
+   
+   
+   
+   O conhecimento das fases do ciclo de vida traz uma série de benefícios. Podemos destacar:
+* Correta análise do ciclo de vida determina o que foi, ou não feito pelo projeto;
+* O ciclo de vida avalia como o projeto está progredindo até o momento;
+* O ciclo de vida permite que seja indicado qual o ponto exato em que o projeto se encontra.
+   Podemos considerar que ao longo do ciclo de vida, com a conclusão de cada fase, as características do projeto tendem a mudar e a incerteza relativa aos prazos e custos tende a diminuir. 
+   Com relação a velocidade de desenvolvimento afirma-se que o ciclo de vida dos projetos, na maioria das vezes, tem um início lento seguido de um progresso acelerado até atingir um pico e, logo em seguida, um desaceleramento até atingir o término.
+   
+   
+Características do Ciclo de Vida
+   A maioria dos Ciclos de Vida dos projetos compartilha algumas características comuns, que representaremos nos tópicos a seguir.
+Nível de Esforço
+   Entende-se por esforço a quantidade de pessoas envolvidas no projeto, o dispêndio de trabalho e dinheiro com o projeto, as preocupações, as complicações as horas extras, etc... Inicia-se em praticamente zero e vai crescendo até atingir um máximo e, logo após esse ponto, reduz-se bruscamente até atingir o valor zero, representando o término do projeto.
+
+
+
+Probabilidade de Sucesso
+   A probabilidade de sucesso do projeto é pequena, e os riscos são elevados em seu início. Com o avançar do projeto, os riscos tendem a diminuir e as probabilidades de sucesso tendem a aumentar. 
+
+Capacidade de Adequação
+   A capacidade de adequação do projeto a novas necessidades, ou seja, a capacidade de se alterar as características finais do projeto. É grande no início, caindo gradativamente com o passar do tempo.
+
+
+Custo de Correção
+   O custo de correção e o trabalho necessário para executar a correção de determinada falha do projeto aumentam exponencialmente como passar do tempo.
+
+
+Fases do Projeto
+   O ciclo de vida do projeto pode ser dividido em fases características. O número de fases é uma função de sua natureza, podendo variar entre quatro e nove fases características. Para fins didáticos serão consideradas somente cinco fases, conforme o ilustrado a seguir.
+   
+
+
+   
+   
+   As fases do projeto normalmente definem:
+* Qual é o trabalho técnico que deve ser realizado em cada fase;
+* Quem deve estar envolvido em cada fase.
+
+Fase de Iniciação
+   É a fase inicial do projeto, quando uma determinada necessidade é identificada e transformada em um problema estruturado a ser resolvido pelo projeto, bem como onde são selecionadas as melhores formas de condução do projeto, gerando a maior quantidade possível de alternativas viáveis para seu desenvolvimento. Nessa fase a justificativa e o objetivo do projeto são definidos.
+   
+   Fase de Planejamento 
+   Após a escolha da forma com que o projeto será conduzido, realiza-se um detalhamento de tudo aquilo que será realizado, incluindo cronogramas, interdependências entre atividades, alocação dos recursos envolvidos, análise de custos, etc., para que, no final da fase de planejamento operacional, o projeto esteja suficientemente detalhado para ser executado sem dificuldades e imprevistos.
+Fase de Execução
+   É a fase que materializa tudo aquilo que foi planejado anteriormente. Qualquer erro cometido nas fases anteriores fica evidente durante essa fase. Se, por exemplo, a equipe de manutenção planejou que realizaria a instalação do cabeamento para a rede em dois dias durante a fase de planejamento e, sem que tenha ocorrido nenhum imprevisto relevante a execução dos trabalhos, a instalação consumiu seis dias, houve um erro de estimativa que foi detectado apenas na realização do trabalho, podendo até ter prejudicado o cronograma do projeto.
+Fase de Controle
+   É a fase que acontece paralelamente ao planejamento operacional e à execução do projeto. Tem como objetivo acompanhar e controlar aquilo que está sendo realizado pelo projeto, de modo a propor ações corretivas e preventivas no menor espaço de tempo possível, após a detecção da anormalidade. O objetivo do controle é comparar o status atual do projeto com o status previsto pelo planejamento, tomando medidas corretivas em caso de desvio.
+Fase de Finalização
+   É a fase quando a execução dos trabalhos é validada através de uma auditoria interna ou externa (terceirização), os livros e documentos do projeto são encerrados e todas as falhas ocorridas durante o projeto são discutidas e analisadas para que erros similares não ocorram em novos projetos.
+
+Inter-relacionamento entre as fases
+   Uma análise direta do gráfico mostrado anteriormente não é conclusiva quanto à interdependência e sobreposição de fases do projeto. Com o desenrolar do projeto, praticamente todas as fases são realizadas simultaneamente, construindo um ciclo, como é mostrado a seguir.
+   Pode-se considerar também que uma fase de um projeto é também um projeto e, portanto, possui um determinado ciclo de vida e pode ser subdividida em fases.
+   
+
+
+   
+   
+
+		Pág 2
+
+ Administração e Controle de Projetos		Prof. LÔBO
+
